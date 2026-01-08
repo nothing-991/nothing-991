@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Contributing to open-source projects, improving documentation, and building reliable software workflows.<br>👬 I'm looking to collaborate on<br>Software development, DevOps practices, automation projects, and open-source initiatives that focus on quality and maintainability.<br>🤝 I'm looking for help with<br>Advanced DevOps workflows, cloud infrastructure, and scaling open-source contributions effectively.<br>🌱 I'm currently learning<br>DevOps, Linux, CI/CD pipelines, cloud platforms, and best practices for software development and deployment.<br>📨 Ask me about<br>Open-source contributions, software packaging, automation, CI/CD, and improving project workflows.<br>⚡ Fun fact<br>I’ve had multiple PRs merged into popular open-source projects, from fixing docs to improving workflows — proving that small changes can make a big impact!
+**🔭 I'm currently working on**<br>Contributing to open-source projects, improving documentation, and building reliable software workflows.<br>**👬I'm looking to collaborate on**<br>Software development, DevOps practices, automation projects, and open-source initiatives that focus on quality and maintainability.<br>**🤝 I'm looking for help with**<br>Advanced DevOps workflows, cloud infrastructure, and scaling open-source contributions effectively.<br>**🌱 I'm currently learning**<br>DevOps, Linux, CI/CD pipelines, cloud platforms, and best practices for software development and deployment.<br>**📨 Ask me about**<br>Open-source contributions, software packaging, automation, CI/CD, and improving project workflows.<br>**⚡ Fun fact**<br>I’ve had multiple PRs merged into popular open-source projects, from fixing docs to improving workflows — proving that small changes can make a big impact!
 
 
 # 💻 Tech Stack:
@@ -18,7 +18,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nothing-991&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+(i) Python/Poetry: link: https://github.com/python-poetry/poetry/pull/10676
+(ii) Python/Pip: link: https://github.com/pypa/pip/pull/13729
 ---
 [![](https://visitcount.itsvg.in/api?id=nothing-991&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
